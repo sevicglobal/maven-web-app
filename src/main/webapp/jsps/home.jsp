@@ -11,10 +11,15 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
+	Landmark Technology is an ideal online training platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
+<<<<<< development
 	Job is guaranteed here after the complete training. Guaranteed job. And success is our story.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY AND ALL</h2>
+=======
+	Job is guaranteed here after the complete training. Guaranteed job. 
+	The shout of the King is in our midst. His name is JESUS. HE IS OUR SUCCESS ACCESS KEY AND ALL</h2>
+>>>>>> master
 <hr>
 <div style="text-align: center;">
 	<span>
