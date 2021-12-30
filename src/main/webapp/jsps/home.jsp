@@ -14,8 +14,6 @@
 	Landmark Technology is an ideal online training platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	Job is guaranteed here after the complete training. Guaranteed job. And success is our story.
-	Job is guaranteed here after the complete training. Guaranteed job. And success is our story.
-	Job is guaranteed here after the complete training. Guaranteed job. And success is our story.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY AND ALL</h2>
 <hr>
 <div style="text-align: center;">
